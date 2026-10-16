@@ -27,7 +27,7 @@ class MiOrganizadorApp extends StatelessWidget {
         useMaterial3: true,
       ),
       darkTheme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: seed, brightness: Brightness.dark),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
       home: const AppShell(),
